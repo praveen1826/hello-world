@@ -5,7 +5,7 @@
   "main": "sample.js",
   "type": "module",
   "scripts": {
-    "npm start": "node sample.js",
+    "start": "node sample.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
