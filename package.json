@@ -21,7 +21,7 @@
   },
   "homepage": "https://praveen1826.github.io/hello-world/",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
